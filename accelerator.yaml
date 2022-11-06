@@ -8,15 +8,6 @@ accelerator:
   - web
   - tanzu
 
-  options:
-  - name: repositoryPrefix
-    inputType: text
-    label: Prefix for the container image repository
-    defaultValue: dev.local
-    required: true
-  imports:
-  - name: tap-workload
-
 engine:
   onConflict: NWayDiff
   merge:
