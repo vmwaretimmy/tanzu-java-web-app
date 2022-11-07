@@ -1,0 +1,10 @@
+accelerator:
+  displayName: Tanzu Java Web App
+  description: A sample Spring Boot web application built with Tanzu supply-chain
+  iconUrl: https://raw.githubusercontent.com/sample-accelerators/icons/master/icon-cloud.png
+  tags:
+  - main-branch
+  - java
+  - spring
+  - web
+  - tanzu
